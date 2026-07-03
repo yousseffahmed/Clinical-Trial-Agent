@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+memory/*
+!memory/.gitkeep
+
+vector_store/*
+!vector_store/.gitkeep

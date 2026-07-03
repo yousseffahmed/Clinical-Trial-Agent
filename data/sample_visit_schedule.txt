@@ -1,0 +1,29 @@
+SYNTHETIC TRAINING DOCUMENT — CT-101 VISIT SCHEDULE
+
+SCREENING — Day -28 to Day -1
+Window: must occur within 28 days before Baseline.
+Required assessments: informed consent before procedures; demographics; medical and medication history; inclusion and exclusion review; physical examination; vital signs; ECG; pregnancy test when applicable; hematology; chemistry; urinalysis; symptom score; and paper-diary training.
+
+BASELINE — Day 1
+Window: no window; procedures occur on Day 1.
+Required assessments: confirm continued eligibility; review adverse events and concomitant medication changes; collect fasting laboratory samples; administer four questionnaires; randomize; observe first dose; dispense product; and review diary completion. Planned duration is approximately 4.5 hours.
+
+VISIT 1 — Day 14
+Window: plus or minus 2 days (Day 12 through Day 16).
+Required assessments: adverse events; concomitant medications; vital signs; symptom score; paper-diary review; adherence; and study-product accountability.
+
+VISIT 2 — Day 28
+Window: plus or minus 3 days (Day 25 through Day 31).
+Required assessments: adverse events; concomitant medications; vital signs; symptom score; physical examination as indicated; hematology; chemistry; paper-diary review; adherence; and study-product accountability.
+
+VISIT 3 — Day 56
+Window: plus or minus 5 days (Day 51 through Day 61).
+Required assessments: adverse events; concomitant medications; vital signs; symptom score; hematology; chemistry; paper-diary review; adherence; and study-product accountability.
+
+FINAL TREATMENT — Day 84
+Window: plus or minus 5 days (Day 79 through Day 89).
+Required assessments: adverse events; concomitant medications; physical examination; vital signs; ECG; hematology; chemistry; urinalysis; symptom and function questionnaires; paper-diary collection; and final product accountability.
+
+FOLLOW-UP — target Day 98
+Window: no allowable visit window is defined in Protocol CT-101.
+Required assessments: unresolved adverse-event status, new serious adverse events, concomitant medication changes, and confirmation of return or destruction of remaining study materials.

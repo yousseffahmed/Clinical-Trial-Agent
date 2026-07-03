@@ -1,0 +1,17 @@
+SYNTHETIC TRAINING DOCUMENT — NOT A REAL SOP
+Clinical Monitoring SOP-07, Version 2.0
+
+1. CRA RESPONSIBILITIES
+The Clinical Research Associate (CRA) prepares a risk-based monitoring plan, confirms essential-document readiness before site activation, verifies informed-consent and eligibility documentation, reviews safety reporting timeliness, checks study-product accountability, and documents monitoring outcomes. The CRA does not make medical decisions and escalates clinical questions to the Medical Monitor.
+
+2. SITE MONITORING
+The CRA performs a site-initiation visit before enrollment and remote or on-site monitoring at frequencies defined by the monitoring plan. Each visit should prioritize informed consent, critical eligibility variables, primary endpoint data, serious adverse events, protocol deviations, and investigational-product control. Follow-up letters are issued within five business days after a monitoring visit.
+
+3. QUERY MANAGEMENT
+Sites should answer critical safety and eligibility queries within two business days and routine data queries within five business days. The CRA reviews aging weekly. Queries open for more than ten business days are escalated to the Clinical Project Manager and Data Manager. Query resolution must be supported by source documentation and must retain an audit trail.
+
+4. ESCALATION PROCESS
+An immediate escalation is required for participant safety concerns, suspected serious breach, consent failure, unreported serious adverse event, or evidence of data falsification. The CRA contacts the Clinical Project Manager and Medical Monitor within one business day, or immediately when participant safety may be affected. The issue, initial containment, owner, due date, and final resolution are recorded in the issue log.
+
+5. DOCUMENTATION REQUIREMENTS
+Monitoring reports must distinguish observations from recommendations, identify reviewed subject records, describe unresolved actions, name each action owner, and assign a due date. Essential correspondence is filed in the trial master file. The CRA verifies that protocol versions, approvals, training records, delegation logs, laboratory certifications, and safety communications remain current.

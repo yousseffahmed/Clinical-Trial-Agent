@@ -1,0 +1,29 @@
+SYNTHETIC TRAINING DOCUMENT — NOT A REAL CLINICAL PROTOCOL
+Protocol CT-101, Version 1.0, 15 January 2026
+
+1. STUDY OBJECTIVE
+CT-101 is a fictional, randomized, double-blind study evaluating whether Investigational Product CTX-101 improves a simulated symptom score over 12 weeks compared with placebo. The primary objective is to compare change from Baseline in the Total Symptom Score at Week 12. Secondary objectives include treatment adherence, participant-reported function, and the frequency of treatment-emergent adverse events.
+
+2. INCLUSION CRITERIA
+Participants must meet every criterion: (1) age 18 through 65 years at consent; (2) documented fictional Condition X for at least six months; (3) screening Total Symptom Score of 20 or greater; (4) stable permitted background therapy for at least 30 days before Screening; (5) ability to comply with study visits and complete the paper diary; and (6) written informed consent before any study-specific procedure. The investigator must document eligibility in source records before randomization. The protocol requires eligibility confirmation, but the confirmation owner is not named.
+
+3. EXCLUSION CRITERIA
+Participants must be excluded for a clinically significant uncontrolled medical condition; alanine aminotransferase or aspartate aminotransferase greater than three times the laboratory upper limit of normal; estimated glomerular filtration rate below 45 mL/min/1.73 m2; use of a prohibited investigational treatment within 30 days or five half-lives, whichever is longer; pregnancy or breastfeeding; known allergy to study-product components; or inability, in the investigator's judgment, to complete study procedures reliably.
+
+4. STUDY VISITS
+Screening occurs from Day -28 through Day -1 and includes informed consent, demographics, medical history, eligibility review, physical examination, vital signs, ECG, pregnancy testing when applicable, hematology, chemistry, urinalysis, and diary training. Baseline is Day 1 with an allowable window of 0 days and includes eligibility confirmation, randomization, first dose, symptom assessment, laboratory collection, and study-product accountability. Visit 1 occurs on Day 14 with a window of plus or minus 2 days. Visit 2 occurs on Day 28 with a window of plus or minus 3 days. Visit 3 occurs on Day 56 with a window of plus or minus 5 days. The final treatment visit is Day 84 with a window of plus or minus 5 days. Follow-up is targeted for Day 98; no allowable visit window is defined.
+
+5. SAFETY MONITORING
+At each post-Baseline contact, the site must review adverse events, concomitant medications, vital signs, and study-product compliance. Hematology and chemistry are collected at Screening, Baseline, Day 28, Day 56, and Day 84. An ECG is required at Screening and Day 84 and may be repeated when clinically indicated. The investigator evaluates clinical significance and may interrupt dosing. The protocol states that abnormal findings should be escalated, but a quantitative escalation threshold and the after-hours medical-monitor contact process are not specified.
+
+6. ADVERSE EVENT REPORTING
+All adverse events are recorded from informed consent until the Follow-up visit. Serious adverse events must be reported to the sponsor safety mailbox within 24 hours of site awareness, regardless of causality. Initial reports may be incomplete but must contain participant identifier, event, reporter, and suspect product. Follow-up information must be submitted within three business days after receipt. Pregnancy reports are submitted within 24 hours and followed to outcome. The investigator assesses seriousness, severity, causality, and expectedness.
+
+7. SUBJECT WITHDRAWAL
+A participant may withdraw consent at any time without penalty. The investigator may discontinue study treatment for an unacceptable adverse event, pregnancy, major noncompliance, a prohibited medication, or a medical condition that makes continued participation unsafe. When possible, discontinued participants should complete early-termination safety assessments and a 14-day safety follow-up. The site must document the reason, final dose date, outstanding adverse events, product return, and whether the participant permits continued use of previously collected data.
+
+8. DATA HANDLING
+Participants complete a paper diary daily. Site staff must transcribe the paper diary into the EDC within five calendar days of each visit. The protocol requires review for completeness but does not identify a diary-to-EDC reconciliation owner or a formal overdue-entry escalation threshold. Corrections must preserve the original entry, date, reason, and person making the correction.
+
+9. PARTICIPANT BURDEN
+The Baseline visit includes fasting laboratory collection, eligibility confirmation, four questionnaires, randomization, first-dose observation, diary training, and product-dispensing activities. Expected on-site duration is approximately 4.5 hours. Participants must also complete a daily paper diary for 12 weeks.

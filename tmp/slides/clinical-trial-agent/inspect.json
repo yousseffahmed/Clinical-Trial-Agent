@@ -1,0 +1,1349 @@
+{
+  "slideCount": 3,
+  "records": [
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capstone label",
+      "text": "AGENTIC AI CAPSTONE",
+      "textChars": 19,
+      "textLines": 1,
+      "bbox": [
+        58,
+        28,
+        270,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "section label",
+      "text": "PROBLEM & SOLUTION",
+      "textChars": 18,
+      "textLines": 1,
+      "bbox": [
+        900,
+        28,
+        250,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "slide number",
+      "text": "01",
+      "textChars": 2,
+      "textLines": 1,
+      "bbox": [
+        1168,
+        21,
+        54,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "title",
+      "text": "Clinical Trial Protocol & Risk Assistant Agent",
+      "textChars": 46,
+      "textLines": 1,
+      "bbox": [
+        58,
+        86,
+        1110,
+        62
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "subtitle",
+      "text": "From complex study documents to sourced operational decisions.",
+      "textChars": 62,
+      "textLines": 1,
+      "bbox": [
+        60,
+        151,
+        1090,
+        44
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "problem label",
+      "text": "PROBLEM",
+      "textChars": 7,
+      "textLines": 1,
+      "bbox": [
+        80,
+        238,
+        102,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "problem statement",
+      "text": "Clinical trial teams must quickly understand protocol requirements, detect operational risks, and turn findings into action.",
+      "textChars": 124,
+      "textLines": 1,
+      "bbox": [
+        80,
+        280,
+        510,
+        48
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "solution label",
+      "text": "SOLUTION",
+      "textChars": 8,
+      "textLines": 1,
+      "bbox": [
+        664,
+        238,
+        112,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "solution statement",
+      "text": "An agentic assistant combining RAG, tools, memory, MCP, and planning for reliable clinical operations support.",
+      "textChars": 110,
+      "textLines": 1,
+      "bbox": [
+        664,
+        280,
+        530,
+        48
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability number",
+      "text": "1",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        76,
+        392,
+        42,
+        40
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability heading",
+      "text": "Grounded answers",
+      "textChars": 16,
+      "textLines": 1,
+      "bbox": [
+        134,
+        391,
+        180,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability body",
+      "text": "Retrieves protocol, SOP, and visit evidence with source labels.",
+      "textChars": 63,
+      "textLines": 1,
+      "bbox": [
+        134,
+        425,
+        178,
+        192
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability number",
+      "text": "2",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        368,
+        392,
+        42,
+        40
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability heading",
+      "text": "Risk to action",
+      "textChars": 14,
+      "textLines": 1,
+      "bbox": [
+        426,
+        391,
+        180,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability body",
+      "text": "Explains operational impact and generates owned CRA next steps.",
+      "textChars": 63,
+      "textLines": 1,
+      "bbox": [
+        426,
+        425,
+        178,
+        192
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability number",
+      "text": "3",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        660,
+        392,
+        42,
+        40
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability heading",
+      "text": "Useful memory",
+      "textChars": 13,
+      "textLines": 1,
+      "bbox": [
+        718,
+        391,
+        180,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability body",
+      "text": "Stores role, answer style, output format, and study focus in SQLite.",
+      "textChars": 68,
+      "textLines": 1,
+      "bbox": [
+        718,
+        425,
+        178,
+        192
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability number",
+      "text": "4",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        952,
+        392,
+        42,
+        40
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability heading",
+      "text": "Standard tools",
+      "textChars": 14,
+      "textLines": 1,
+      "bbox": [
+        1010,
+        391,
+        194,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "capability body",
+      "text": "Exposes the shared tool layer through FastMCP for external agents.",
+      "textChars": 66,
+      "textLines": 1,
+      "bbox": [
+        1010,
+        425,
+        192,
+        192
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 1,
+      "role": "footer",
+      "text": "Synthetic study documents • Deterministic mock mode • No medical decisions",
+      "textChars": 74,
+      "textLines": 1,
+      "bbox": [
+        58,
+        690,
+        820,
+        20
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "capstone label",
+      "text": "AGENTIC AI CAPSTONE",
+      "textChars": 19,
+      "textLines": 1,
+      "bbox": [
+        58,
+        28,
+        270,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "section label",
+      "text": "SYSTEM ARCHITECTURE",
+      "textChars": 19,
+      "textLines": 1,
+      "bbox": [
+        900,
+        28,
+        250,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "slide number",
+      "text": "02",
+      "textChars": 2,
+      "textLines": 1,
+      "bbox": [
+        1168,
+        21,
+        54,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "title",
+      "text": "One workflow, shared tools, inspectable output",
+      "textChars": 46,
+      "textLines": 1,
+      "bbox": [
+        58,
+        86,
+        1110,
+        62
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "subtitle",
+      "text": "The planner selects the minimum tool sequence and preserves sources.",
+      "textChars": 68,
+      "textLines": 1,
+      "bbox": [
+        60,
+        151,
+        1090,
+        44
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "1",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        72,
+        232,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "User",
+      "textChars": 4,
+      "textLines": 1,
+      "bbox": [
+        120,
+        231,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Protocol question or operational request",
+      "textChars": 40,
+      "textLines": 1,
+      "bbox": [
+        76,
+        279,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "2",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        364,
+        232,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "FastAPI API",
+      "textChars": 11,
+      "textLines": 1,
+      "bbox": [
+        412,
+        231,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Typed endpoints and validation",
+      "textChars": 30,
+      "textLines": 1,
+      "bbox": [
+        368,
+        279,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "3",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        656,
+        232,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "Agent Planner",
+      "textChars": 13,
+      "textLines": 1,
+      "bbox": [
+        704,
+        231,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Classifies intent and decides workflow",
+      "textChars": 38,
+      "textLines": 1,
+      "bbox": [
+        660,
+        279,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "4",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        948,
+        232,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "Memory SQLite",
+      "textChars": 13,
+      "textLines": 1,
+      "bbox": [
+        996,
+        231,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Stores user role and preferences",
+      "textChars": 32,
+      "textLines": 1,
+      "bbox": [
+        952,
+        279,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "→",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        310,
+        267,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "→",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        602,
+        267,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "→",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        894,
+        267,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "↓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        1042,
+        357,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "5",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        948,
+        418,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "RAG Vector Store",
+      "textChars": 16,
+      "textLines": 1,
+      "bbox": [
+        996,
+        417,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Retrieves source-labelled study knowledge",
+      "textChars": 41,
+      "textLines": 1,
+      "bbox": [
+        952,
+        465,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "6",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        656,
+        418,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "Tool Layer",
+      "textChars": 10,
+      "textLines": 1,
+      "bbox": [
+        704,
+        417,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Search • summary • risk • action plan",
+      "textChars": 37,
+      "textLines": 1,
+      "bbox": [
+        660,
+        465,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "7",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        364,
+        418,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "MCP Server",
+      "textChars": 10,
+      "textLines": 1,
+      "bbox": [
+        412,
+        417,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Standardized external tool interface",
+      "textChars": 36,
+      "textLines": 1,
+      "bbox": [
+        368,
+        465,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture step",
+      "text": "8",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        72,
+        418,
+        38,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture node",
+      "text": "Final Answer",
+      "textChars": 12,
+      "textLines": 1,
+      "bbox": [
+        120,
+        417,
+        174,
+        30
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "architecture detail",
+      "text": "Plan • tools • sources • memory",
+      "textChars": 31,
+      "textLines": 1,
+      "bbox": [
+        76,
+        465,
+        214,
+        60
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "←",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        894,
+        453,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "←",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        602,
+        453,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "flow arrow",
+      "text": "←",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        310,
+        453,
+        34,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "docker label",
+      "text": "DOCKER",
+      "textChars": 6,
+      "textLines": 1,
+      "bbox": [
+        78,
+        593,
+        94,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "docker foundation",
+      "text": "Packages the FastAPI service, tools, data, memory, and vector index into one reproducible runtime.",
+      "textChars": 98,
+      "textLines": 1,
+      "bbox": [
+        195,
+        589,
+        990,
+        36
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 2,
+      "role": "footer",
+      "text": "FastAPI calls shared tools directly; FastMCP exposes the same capabilities externally.",
+      "textChars": 86,
+      "textLines": 1,
+      "bbox": [
+        58,
+        690,
+        820,
+        20
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "capstone label",
+      "text": "AGENTIC AI CAPSTONE",
+      "textChars": 19,
+      "textLines": 1,
+      "bbox": [
+        58,
+        28,
+        270,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "section label",
+      "text": "DEMO & COURSE MAPPING",
+      "textChars": 21,
+      "textLines": 1,
+      "bbox": [
+        900,
+        28,
+        250,
+        25
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "slide number",
+      "text": "03",
+      "textChars": 2,
+      "textLines": 1,
+      "bbox": [
+        1168,
+        21,
+        54,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "title",
+      "text": "Evidence becomes accountable action",
+      "textChars": 35,
+      "textLines": 1,
+      "bbox": [
+        58,
+        86,
+        1110,
+        62
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "subtitle",
+      "text": "A six-step demo proves all seven required course concepts.",
+      "textChars": 58,
+      "textLines": 1,
+      "bbox": [
+        60,
+        151,
+        1090,
+        44
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo column label",
+      "text": "LIVE DEMO",
+      "textChars": 9,
+      "textLines": 1,
+      "bbox": [
+        58,
+        212,
+        122,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept column label",
+      "text": "COURSE CONCEPTS",
+      "textChars": 15,
+      "textLines": 1,
+      "bbox": [
+        678,
+        212,
+        166,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "1",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        266,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Ingest study documents",
+      "textChars": 22,
+      "textLines": 1,
+      "bbox": [
+        120,
+        267,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "2",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        328,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Ask the Visit 2 question",
+      "textChars": 24,
+      "textLines": 1,
+      "bbox": [
+        120,
+        329,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "3",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        390,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Summarize safety monitoring",
+      "textChars": 27,
+      "textLines": 1,
+      "bbox": [
+        120,
+        391,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "4",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        452,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Detect operational risks",
+      "textChars": 24,
+      "textLines": 1,
+      "bbox": [
+        120,
+        453,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "5",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        514,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Generate the CRA action plan",
+      "textChars": 28,
+      "textLines": 1,
+      "bbox": [
+        120,
+        515,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step number",
+      "text": "6",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        70,
+        576,
+        36,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "demo step",
+      "text": "Save and reuse memory",
+      "textChars": 21,
+      "textLines": 1,
+      "bbox": [
+        120,
+        577,
+        430,
+        33
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        694,
+        273,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "Persona design",
+      "textChars": 14,
+      "textLines": 1,
+      "bbox": [
+        728,
+        270,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        966,
+        273,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "Tool use",
+      "textChars": 8,
+      "textLines": 1,
+      "bbox": [
+        1000,
+        270,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        694,
+        349,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "MCP",
+      "textChars": 3,
+      "textLines": 1,
+      "bbox": [
+        728,
+        346,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        966,
+        349,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "Reasoning / planning",
+      "textChars": 20,
+      "textLines": 1,
+      "bbox": [
+        1000,
+        346,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        694,
+        425,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "RAG knowledge",
+      "textChars": 13,
+      "textLines": 1,
+      "bbox": [
+        728,
+        422,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        966,
+        425,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "Memory",
+      "textChars": 6,
+      "textLines": 1,
+      "bbox": [
+        1000,
+        422,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "concept check",
+      "text": "✓",
+      "textChars": 1,
+      "textLines": 1,
+      "bbox": [
+        694,
+        501,
+        22,
+        24
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "course concept",
+      "text": "Docker deployment",
+      "textChars": 17,
+      "textLines": 1,
+      "bbox": [
+        728,
+        498,
+        190,
+        34
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "mock mode callout",
+      "text": "Mock mode keeps the complete demo reliable without an API key.",
+      "textChars": 62,
+      "textLines": 1,
+      "bbox": [
+        698,
+        585,
+        484,
+        31
+      ]
+    },
+    {
+      "kind": "textbox",
+      "slide": 3,
+      "role": "footer",
+      "text": "Educational prototype • Synthetic data • Human verification required",
+      "textChars": 68,
+      "textLines": 1,
+      "bbox": [
+        58,
+        690,
+        820,
+        20
+      ]
+    }
+  ]
+}
